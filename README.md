@@ -20,4 +20,4 @@ Header file it generates won't work out of the box with lua-ffi.<br>
 
 #### Changes for header file:
 * remove all ifdefs
-* replace __SIZE_TYPE__ with size_t
+* replace `__SIZE_TYPE__` with `size_t`
