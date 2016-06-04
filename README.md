@@ -1,7 +1,7 @@
 Go-Lua binding.
 ===============
 
-Idea: being able to call Go's ssh lib. from lua.
+Idea: being able to call Go's ssh lib. from lua.<br>
 Status: Right it can't do much just calls a `Sum` function.
 
 ```
